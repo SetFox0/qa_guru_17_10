@@ -1,0 +1,5 @@
+pytest~=8.3.3
+selenium>=4.27.1
+selene>=2.0.0rc7
+allure-pytest
+allure-python-commons~=2.13.5
